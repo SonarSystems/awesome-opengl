@@ -114,7 +114,7 @@ A curated list of awesome OpenGL libraries, debuggers and resources. Inspired by
 
 *OpenGL video tutorials*
 
-* [CodeAcademy] (https://www.youtube.com/playlist?list=PLbLaohICnSGUx0zZ4ffxEzQvWEzxWH839) - Several tutorial videos about modern OpenGL and rendering techniques.
+* [Sonar Systems] (https://www.youtube.com/playlist?list=PLRtjMdoYXLf6zUMDJVRZYV-6g6n62vet8) - Tutorials covering Modern OpenGL including setting up using GLFW, SDL and SFML on a Mac and Windows machine.
 * [Jamie King] (https://www.youtube.com/playlist?list=PLRwVmtr-pp06qT6ckboaOhnm9FxmzHpbY) - Compreheensive tutorials about modern OpenGL and Qt.
 * [MakingGamesWithBen] (https://www.youtube.com/playlist?list=PLSPw4ASQYyymu3PfG9gxywSPghnSMiOAW) - Video tutorials (step-by-step) about OpenGL and game development.
 * [SIGGRAPH] (https://www.youtube.com/user/ACMSIGGRAPH/playlists) - Popular conference about computer graphics.
